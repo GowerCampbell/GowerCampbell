@@ -1,6 +1,6 @@
 # 👋 About Me
 <picture>
-   <source media="(prefers-color-scheme: dark)"
+   <source media="(prefers-color-scheme: light)"
 ![Logo](Images/Logo.png)
 </picture>
 
