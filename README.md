@@ -1,6 +1,5 @@
 # 👋 About Me
 
-   <source media="(prefers-color-scheme: light)"
 ![Logo](Images/Logo.png)
 
 
@@ -51,5 +50,4 @@ He/Him
 ---
 
 ## ⚡ Fun Fact
-> [!NOTE]
 > I believe programming and storytelling share a core principle: both require logical reasoning and creativity to craft engaging, functional, and impactful results.
