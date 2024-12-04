@@ -1,5 +1,5 @@
 # 👋 About Me
-<picture><source media="(prefers-color-scheme: dark)" srcset=""Images/Logo.png"</picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="Images/Logo.png"</picture>
 
 Hi there! I'm **Gower Campbell**, a creative professional transitioning from filmmaking to tech through the **HyperionDev CoGrammar Bootcamp**. I'm passionate about using my storytelling background to solve real-world problems with code and design.
 
