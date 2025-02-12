@@ -60,20 +60,6 @@ He/Him
 
 ---
 
-# 🛠 Workspace Repository Structure
-
-Welcome to my **Workspace**—a central hub where I showcase my ongoing learning, projects, code contributions, and everything that contributes to my technical development.
-
-## Technical Skills Showcase  
-Here, I highlight my key projects and open-source contributions to demonstrate the skills I’m developing.
-
-- **Mini-Projects**: A collection of small-scale projects that show my problem-solving abilities and coding techniques.  
-  - *Data-Analysis-Script/*: A set of scripts and notebooks focused on data manipulation and visualization.  
-  - *React-Component-Library/*: A library of reusable React components. [Explore here](Mini-Projects/React-Component-Library/INDEX.md)  
-
-- **Open-Source Contributions**: A guide to my open-source contributions, including valuable resources for contributing to projects. [View here](Open-Source-Contributions/Open-Source-Contributions/Open-Source-Guide.md)  
-- **Code-Snippets**: A collection of useful code snippets for fast reference and reuse. [Access here](Code-Snippets/My-Code-Snippet.md)
-
 ## 📚 Learning Journey  
 This section documents my structured learning path, covering everything from the fundamentals of Python to cloud computing and containerization.
 
@@ -90,16 +76,6 @@ A comprehensive roadmap with exercises, projects, and notes to track my progress
 7. **[I/O Operations](https://github.com/GowerCampbell/IO-Operations)**  
 8. **[OOP - Classes](https://github.com/GowerCampbell/OOP-Classes)**
 9. **[OOP - Inheritance](https://github.com/GowerCampbell/OOP-Inheritance)**
-
----
-
-- **AWS Certification Notes**: My study materials for AWS certifications and cloud computing concepts. [Check out here](Learning-Journey/AWS-Certification-Notes/README.md)  
-- **Blog Posts**: Technical reflections and deep dives into my learning experiences. [Read here](Learning-Journey/Blog-Posts/README.md)
-
----
-
-## 😄 Pronouns
-He/Him
 
 ---
 
