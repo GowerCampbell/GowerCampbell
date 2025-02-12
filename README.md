@@ -89,8 +89,6 @@ A comprehensive roadmap with exercises, projects, and notes to track my progress
 6. **[Strings, Lists, & Dictionaries](https://github.com/GowerCampbell/Strings-Lists-Dictionaries)**  
 7. **[I/O Operations](https://github.com/GowerCampbell/IO-Operations)**  
 8. **[OOP - Classes](https://github.com/GowerCampbell/OOP-Classes)**
-
-**Advanced**
 9. **[OOP - Inheritance](https://github.com/GowerCampbell/OOP-Inheritance)**
 
 ---
