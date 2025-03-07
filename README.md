@@ -8,7 +8,7 @@ Hi! I'm **Gower Campbell**, a creative professional on a journey from filmmaking
 ---
 ## 📝 Major-Projects
 
-- **[StickyNotes](https://github.com/GowerCampbell/MyCodingTask_StickyNote)**  
+-- **[StickyNotes](https://github.com/GowerCampbell/MyCodingTask_StickyNote)**  
    A simple web application built with Django, allowing users to create, edit, and delete sticky notes. Features a clean interface and persistent 
    storage using Django’s ORM. Perfect for quick note-taking and task tracking.
 
