@@ -6,8 +6,15 @@
 Hi! I'm **Gower Campbell**, a creative professional on a journey from filmmaking to the tech world through the **HyperionDev CoGrammar Bootcamp**. With a background in storytelling, I’m passionate about leveraging technology to solve real-world problems, bringing fresh perspectives to coding and design.
 
 ---
+## 📝 Major-Projects
 
-## 🚀 Project Space  
+- **[StickyNotes](https://github.com/GowerCampbell/MyCodingTask_StickyNote)**  
+   A simple web application built with Django, allowing users to create, edit, and delete sticky notes. Features a clean interface and persistent 
+   storage using Django’s ORM. Perfect for quick note-taking and task tracking.
+
+---
+
+## 🚀 Mini-Project Space  
 Here are two featured projects that highlight my coding skills and problem-solving abilities:
 
 1. **[Time-Based Greeting](https://github.com/GowerCampbell/Time-Based-Greeting)**  
