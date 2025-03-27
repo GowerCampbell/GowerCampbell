@@ -87,6 +87,33 @@ A comprehensive roadmap with exercises, projects, and notes to track my progress
 8. **[OOP - Classes](https://github.com/GowerCampbell/OOP-Classes)**
 9. **[OOP - Inheritance](https://github.com/GowerCampbell/OOP-Inheritance)**
 
+## **Advanced**  
+10. **[Data Structures - 2D Lists](https://github.com/GowerCampbell/Data-Structures-2D-Lists)**  
+11. **[Recursion](https://github.com/GowerCampbell/Recursion)**  
+12. **[Sorting & Searching](https://github.com/GowerCampbell/Sorting-And-Searching)**  
+13. **[Software Design Principles](https://github.com/GowerCampbell/Software-Design)**  
+14. **[Unit Testing](https://github.com/GowerCampbell/Unit-Testing)**  
+15. **[OOP - Modules](https://github.com/GowerCampbell/OOP-Modules)**  
+
+---
+
+## **Web Development Path**  
+Expanding my knowledge beyond Python to web technologies.  
+
+16. **[HTML Overview](https://github.com/GowerCampbell/HTML-Overview)**  
+17. **[CSS Overview](https://github.com/GowerCampbell/CSS-Overview)**  
+
+---
+
+## **Databases & Backend Development**  
+Deep dive into databases and backend technologies.  
+
+18. **[Relational Databases](https://github.com/GowerCampbell/Relational-Databases)**  
+19. **[SQL](https://github.com/GowerCampbell/SQL)**  
+20. **[SQLite](https://github.com/GowerCampbell/SQLite)**  
+21. **[Django - Sticky Notes Application Part 1](https://github.com/GowerCampbell/Django-Sticky-Notes-1)**  
+22. **[Django - Sticky Notes Application Part 2](https://github.com/GowerCampbell/Django-Sticky-Notes-2)**  
+
 ---
 
 ## ⚡ Fun Fact
