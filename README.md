@@ -10,7 +10,7 @@ Hi! I'm **Gower Campbell**, a creative professional on a journey from filmmaking
 - **Web Development**: Diving deep into **HTML** and **CSS** to build dynamic, user-friendly web applications that are fully responsive.
 
 ---
-## 📝 Major-Projects
+# 📝 Major-Projects
 
 -- **[StickyNotes](https://github.com/GowerCampbell/MyCodingTask_StickyNote)** --
    A simple web application built with Django, allowing users to create, edit, and delete sticky notes. Features a clean interface and persistent 
@@ -21,14 +21,14 @@ Hi! I'm **Gower Campbell**, a creative professional on a journey from filmmaking
 
 ---
 
-### 🌱 What I’m Learning  
+## 🌱 What I’m Learning  
 - **Full-Stack Development**: Exploring frameworks like **Django** and **Flask** to build end-to-end web applications.  
 - **Database Management**: Learning **SQL** and **SQLite** to manage and manipulate data effectively.  
 - **API Integration**: Enhancing skills in **APIs** and **data visualization tools** to create seamless, data-driven applications.
 
 ---
 
-### Python Learning Path
+# Python Learning Path
 A comprehensive roadmap with exercises, projects, and notes to track my progress.
 
 ## **Fundamentals**
@@ -52,7 +52,7 @@ A comprehensive roadmap with exercises, projects, and notes to track my progress
 
 ---
 
-## **Web Development Path**  
+# **Web Development Path**  
 Expanding my knowledge beyond Python to web technologies.  
 
 16. **[HTML Overview](https://github.com/GowerCampbell/HTML-Overview)**  
@@ -60,7 +60,7 @@ Expanding my knowledge beyond Python to web technologies.
 
 ---
 
-## **Databases & Backend Development**  
+# **Databases & Backend Development**  
 Deep dive into databases and backend technologies.  
 
 18. **[Relational Databases](https://github.com/GowerCampbell/Relational-Databases)**  
@@ -71,39 +71,39 @@ Deep dive into databases and backend technologies.
 
 ---
 
-## 🔭 Currently Working On  
+# 🔭 Currently Working On  
 - **Python Development**: Mastering advanced Python concepts, including object-oriented programming and data analysis techniques.  
 - **Web Development**: Diving deep into **HTML** and **CSS** to build dynamic, user-friendly web applications that are fully responsive.
 
 ---
 
-## 👯 Seeking Collaboration On  
+# 👯 Seeking Collaboration On  
 - **Multimedia-Tech Projects**: I’m interested in projects that merge **video editing** with interactive tech.  
 - **Open-Source Contributions**: Looking to collaborate on beginner-friendly open-source projects to expand my skills and contribute to the community.
 
 ---
 
-## 🤔 Looking for Help With  
+# 🤔 Looking for Help With  
 - **Networking & Career Growth**: Seeking advice and connections to entry-level opportunities in software development or data analysis.  
 - **Advanced Frameworks**: Seeking guidance on mastering complex frameworks and real-world coding practices.
 
 ---
 
-## 💬 Ask Me About  
+# 💬 Ask Me About  
 - **Video Editing**: Expertise in editing with **Adobe Premiere Pro** and **After Effects**.  
 - **Tech Transition Journey**: Insights into transitioning from filmmaking to tech and the lessons learned along the way.
 
 ---
 
-## 📫 How to Reach Me  
+# 📫 How to Reach Me  
 - **Email**: [Gower.Campbell@gmail.com](mailto:Gower.Campbell@gmail.com)  
 - **LinkedIn**: [Connect with me here](https://www.linkedin.com)
 
 ---
 
-## 😄 Pronouns  
+# 😄 Pronouns  
 He/Him
 
 
-## ⚡ Fun Fact
+# ⚡ Fun Fact
 > I believe programming and storytelling share a core principle: both require logical reasoning and creativity to craft engaging, functional, and impactful results.
