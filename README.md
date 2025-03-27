@@ -101,9 +101,7 @@ Deep dive into databases and backend technologies.
 
 ---
 
-# 😄 Pronouns  
-He/Him
-
+# 😄 Pronouns  He/Him
 
 # ⚡ Fun Fact
 > I believe programming and storytelling share a core principle: both require logical reasoning and creativity to craft engaging, functional, and impactful results.
