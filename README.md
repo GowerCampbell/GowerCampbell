@@ -36,7 +36,7 @@ This section documents my structured learning path, covering everything from the
 ### Python Learning Path
 A comprehensive roadmap with exercises, projects, and notes to track my progress.
 
-**Fundamentals**
+## **Fundamentals**
 1. **[Pre-Assessment MCQ](https://github.com/GowerCampbell/Pre-Assessment-MCQ)**  
 2. **[Getting Started with Your Bootcamp](https://github.com/GowerCampbell/Getting-Started-With-Bootcamp)**  
 3. **[Data Types & Conditional Statements](https://github.com/GowerCampbell/Data-Types-And-Conditional-Statements)**  
