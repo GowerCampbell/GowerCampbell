@@ -21,15 +21,10 @@ Hi! I'm **Gower Campbell**, a creative professional on a journey from filmmaking
 
 ---
 
-## 🌱 What I’m Learning  
+### 🌱 What I’m Learning  
 - **Full-Stack Development**: Exploring frameworks like **Django** and **Flask** to build end-to-end web applications.  
 - **Database Management**: Learning **SQL** and **SQLite** to manage and manipulate data effectively.  
 - **API Integration**: Enhancing skills in **APIs** and **data visualization tools** to create seamless, data-driven applications.
-
----
-
-## 📚 Learning Journey  
-This section documents my structured learning path, covering everything from the fundamentals of Python to cloud computing and containerization.
 
 ---
 
