@@ -1,7 +1,15 @@
+
+![Banner](https://raw.githubusercontent.com/GowerCampbell/GowerCampbell/main/Images/banner_night.png)
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-#FFA500?style=for-the-badge)](https://www.linkedin.com/in/gower-campbell-16940115b/)
+[![Email](https://img.shields.io/badge/Email-Contact-#FFA500?style=for-the-badge)](mailto:Gower.Campbell@gmail.com)
+<a href="https://www.google.com/search?q=Gower+Campbell+developer" style="background-color: #FFA500; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Google Me</a>
+
 # 👋 About Me
 <div style="text-align: center;">
-  <img src="https://raw.githubusercontent.com/GowerCampbell/GowerCampbell/main/assets/icons/profile.gif" alt="Gower at desk" style="border-radius: 50%; width: 150px; height: 150px; border: 3px solid #FF69B4; box-shadow: 0 0 0 3px #00FF00;">
-  <p style="text-align: center; font-style: italic;">"My secret identity/brand: Gower Campbell"</p>
+  <img src="https://raw.githubusercontent.com/GowerCampbell/GowerCampbell/main/assets/icons/profile.gif" alt="Gower at desk" style="border-radius: 50%; width: 150px; height: 150px; border: 3px solid #FFA500; box-shadow: 0 0 0 3px #FF4500;">
+  <p style="text-align: center; font-style: italic; color: #FFA500;">"My secret identity/brand: Gower Campbell"</p>
 </div>
 
 Hi! I'm **Gower Campbell**, a creative professional transitioning from filmmaking to tech through the **HyperionDev CoGrammar Bootcamp**. With a background in storytelling, I’m passionate about using code to solve real-world problems, blending creativity with technical precision.
@@ -59,18 +67,14 @@ Hi! I'm **Gower Campbell**, a creative professional transitioning from filmmakin
 - **Video Editing**: Expertise in **Adobe Premiere Pro** and **After Effects**.
 - **Tech Transition**: My journey from filmmaking to coding.
 
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge)](https://www.linkedin.com/in/gower-campbell-16940115b/)
-[![Email](https://img.shields.io/badge/Email-Contact-green?style=for-the-badge)](mailto:Gower.Campbell@gmail.com)
-<a href="https://www.google.com/search?q=Gower+Campbell+developer" style="background-color: #4285F4; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Google Me</a>
-
 ## 📈 GitHub Stats
-![Gower's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GowerCampbell&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GowerCampbell&layout=compact)
+![Gower's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GowerCampbell&show_icons=true&theme=radical&border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GowerCampbell&layout=compact&border=true)
 
 ## 😄 Pronouns
 He/Him
 
 ## ⚡ Fun Fact
 > Programming and storytelling both blend logic and creativity to craft impactful solutions.
+
 
