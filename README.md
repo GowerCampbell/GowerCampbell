@@ -1,5 +1,8 @@
 # 👋 About Me
-![Logo](https://raw.githubusercontent.com/GowerCampbell/GowerCampbell/main/Images/Logo.png)
+<div style="text-align: center;">
+  <img src="https://raw.githubusercontent.com/GowerCampbell/GowerCampbell/main/assets/icons/profile.gif" alt="Gower at desk" style="border-radius: 50%; width: 150px; height: 150px; border: 3px solid #FF69B4; box-shadow: 0 0 0 3px #00FF00;">
+  <p style="text-align: center; font-style: italic;">"My secret identity/brand: Gower Campbell"</p>
+</div>
 
 Hi! I'm **Gower Campbell**, a creative professional transitioning from filmmaking to tech through the **HyperionDev CoGrammar Bootcamp**. With a background in storytelling, I’m passionate about using code to solve real-world problems, blending creativity with technical precision.
 
@@ -70,3 +73,4 @@ He/Him
 
 ## ⚡ Fun Fact
 > Programming and storytelling both blend logic and creativity to craft impactful solutions.
+
