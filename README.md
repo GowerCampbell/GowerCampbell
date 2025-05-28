@@ -91,7 +91,7 @@ I'm always on the lookout for exciting projects and collaborations:
 - 🌍 **Beginner-Friendly Open-Source:** I'm eager to contribute to open-source projects, learning and growing together with the community.
 
   <details>
-  <summary><strong>🤝 OpenSource Contributions</strong></summary>
+  <summary><strong>🌍Beginner-Friendly Open-Source:</strong> I'm eager to contribute to open-source projects, learning and growing together with the community.</summary>
   </details>
 
 ## 🚀 Assistance Requested
