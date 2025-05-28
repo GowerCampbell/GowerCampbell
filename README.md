@@ -32,7 +32,7 @@ Hello! I'm **Gower Campbell**, a creative mind journeying from the realms of fil
 
 ## 🌌 Stellar Learning Trajectory
 
-My learning path is a constellation of knowledge, each repository a star in my coding galaxy:
+My learning journey is a constellation of growth, with each resource a vital star guiding me toward a career in software engineering. I've built a strong foundation through the [HyperionDev Software Engineering Bootcamp](https://www.hyperiondev.com/bootcamps/software-engineering/), earned certifications via [Udemy](https://www.udemy.com/), and followed structured [Microsoft Learn career paths](https://learn.microsoft.com/en-us/training/career-paths/). I’m actively engaged with the [100Devs](https://100devs.org/about) community led by Leon Noel—collaborating, building, and growing alongside fellow developers. To sharpen my skills for the technical interview galaxy, I regularly solve coding challenges on [LeetCode](https://leetcode.com/). Each repository I build is a star in my coding galaxy—together forming a professional, purpose-driven path toward becoming a job-ready software engineer.
 
 <details>
   <summary><strong>📘 Python Fundamentals</strong></summary>
@@ -77,7 +77,7 @@ My learning path is a constellation of knowledge, each repository a star in my c
 </details>
 
 <details>
-  <summary><strong>JavaScript & Typescript</strong></summary>
+  <summary><strong> ![JavaScript Logo](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png) JavaScript & Typescript</strong></summary>
 
 - Coming Soon!
 </details>
