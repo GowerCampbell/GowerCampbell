@@ -1,4 +1,4 @@
-# 🌌 Mission Control: About the CodeExplorer
+# 🌌 Mission Control:
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/GowerCampbell/GowerCampbell/main/assets/icons/GithubProfileBanner.gif" alt="Cosmic Banner" width="100%" />
