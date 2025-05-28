@@ -77,7 +77,8 @@ My learning journey is a constellation of growth, with each resource a vital sta
 </details>
 
 <details>
-  <summary><strong> ![JavaScript Logo](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png) JavaScript & Typescript</strong></summary>
+  
+  <summary><strong> 📜 JavaScript & Typescript </strong></summary>
 
 - Coming Soon!
 </details>
