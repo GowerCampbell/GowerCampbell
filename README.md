@@ -1,5 +1,5 @@
 
-![Banner](https://raw.githubusercontent.com/GowerCampbell/GowerCampbell/main/Images/banner_night.png)
+![Banner](https://raw.githubusercontent.com/GowerCampbell/GowerCampbell/main/assets/icons/GithubProfileBanner.gif)
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-#FFA500?style=for-the-badge)](https://www.linkedin.com/in/gower-campbell-16940115b/)
