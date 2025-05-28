@@ -1,8 +1,5 @@
 
 ![Banner](https://raw.githubusercontent.com/GowerCampbell/GowerCampbell/main/assets/icons/GithubProfileBanner.gif)
-
-## 📫 Connect with Me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-FFA500?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gower-campbell-16940115b/)
 [![Email](https://img.shields.io/badge/Email-Contact-FFA500?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Gower.Campbell@gmail.com)
 [![Google Me](https://img.shields.io/badge/Google-Me-FFA500?style=for-the-badge&logo=google&logoColor=white)](https://www.google.com/search?q=Gower+Campbell+developer)
