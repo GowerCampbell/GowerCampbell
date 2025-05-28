@@ -88,6 +88,7 @@ My learning journey is a constellation of growth, with each resource a vital sta
 I'm always on the lookout for exciting projects and collaborations:
 
 - 🎬 **Multimedia-Tech Fusion:** Let's create projects that blend editing with interactivity, crafting immersive experiences.
+  
   <details>
   <summary><strong>🌍Beginner-Friendly Open-Source:</strong> I'm eager to contribute to open-source projects, learning and growing together with the community.</summary>
   </details>
