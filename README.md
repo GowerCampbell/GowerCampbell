@@ -6,13 +6,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gower-campbell-16940115b/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0D47A1?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0D47A1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"/>
   </a>
   <a href="mailto:Gower.Campbell@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-1A237E?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
+    <img src="https://img.shields.io/badge/-Email-1A237E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="40"/>
   </a>
   <a href="https://www.google.com/search?q=Gower+Campbell+developer">
-    <img src="https://img.shields.io/badge/-Google%20Me-311B92?style=for-the-badge&logo=google&logoColor=white" height="40"/>
+    <img src="https://img.shields.io/badge/-Google%20Me-311B92?style=for-the-badge&logo=google&logoColor=white" alt="Google Search" height="40"/>
   </a>
 </p>
 
