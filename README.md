@@ -90,6 +90,10 @@ I'm always on the lookout for exciting projects and collaborations:
 - 🎬 **Multimedia-Tech Fusion:** Let's create projects that blend editing with interactivity, crafting immersive experiences.
 - 🌍 **Beginner-Friendly Open-Source:** I'm eager to contribute to open-source projects, learning and growing together with the community.
 
+  <details>
+  <summary><strong>🤝 OpenSource Contributions</strong></summary>
+  </details>
+
 ## 🚀 Assistance Requested
 
 If you have expertise in these areas, I'd love your guidance:
