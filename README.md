@@ -1,10 +1,11 @@
+
 # 🌌 Mission Control:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GowerCampbell/GowerCampbell/main/assets/icons/GithubProfileBanner.gif" alt="Cosmic Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/GowerCampbell/GowerCampbell/main/assets/icons/GithubProfileBanner.gif" alt="Cosmic Banner" width="100%" class="profile-banner" />
 </p>
 
-<p align="center">
+<p align="center" class="social-badges">
   <a href="https://www.linkedin.com/in/gower-campbell-16940115b/">
     <img src="https://img.shields.io/badge/-LinkedIn-0D47A1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"/>
   </a>
@@ -15,6 +16,68 @@
     <img src="https://img.shields.io/badge/-Google%20Me-311B92?style=for-the-badge&logo=google&logoColor=white" alt="Google Search" height="40"/>
   </a>
 </p>
+
+<style>
+  /* Default styles */
+  .profile-banner {
+    max-width: 100%;
+    height: auto;
+  }
+  .social-badges {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+  .social-badges img {
+    max-height: 40px;
+  }
+  h1, h2, h3 {
+    font-size: 1.5em;
+  }
+  p, li {
+    font-size: 1em;
+  }
+  .github-stats {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+
+  /* Media query for phones (max-width: 767px) */
+  @media screen and (max-width: 767px) {
+    .profile-banner {
+      width: 100%;
+      max-height: 200px; /* Prevent banner from taking too much vertical space */
+      object-fit: cover;
+    }
+    .social-badges {
+      flex-direction: column; /* Stack badges vertically on phones */
+      align-items: center;
+    }
+    .social-badges img {
+      max-height: 30px; /* Smaller badges for phones */
+      width: auto;
+    }
+    h1 {
+      font-size: 1.2em; /* Smaller heading for phones */
+    }
+    h2 {
+      font-size: 1.1em;
+    }
+    h3 {
+      font-size: 1em;
+    }
+    p, li {
+      font-size: 0.9em; /* Slightly smaller text for readability */
+    }
+    .github-stats img {
+      width: 100%; /* Make stats images full-width on phones */
+      max-width: 300px; /* Cap width to avoid overflow */
+    }
+  }
+</style>
 
 Hello! I'm **Gower Campbell**, a creative mind journeying from the realms of filmmaking to the vast expanse of full-stack development. I thrive at the intersection of storytelling and software, where creativity meets code. My mission is to build universes from code, creating applications that tell stories and forge tools that help my people, provide access where I can't, and assist others on this journey.
 
@@ -77,9 +140,8 @@ My learning journey is a constellation of growth, with each resource a vital sta
 </details>
 
 <details>
+  <summary><strong>📜 JavaScript & Typescript</strong></summary>
   
-  <summary><strong> 📜 JavaScript & Typescript </strong></summary>
-
 - Coming Soon!
 </details>
 
@@ -90,7 +152,7 @@ I'm always on the lookout for exciting projects and collaborations:
 - 🎬 **Multimedia-Tech Fusion:** Let's create projects that blend editing with interactivity, crafting immersive experiences.
   
   <details>
-  <summary><strong>🌍Beginner-Friendly Open-Source:</strong> I'm eager to contribute to open-source projects, learning and growing together with the community.</summary>
+  <summary><strong>🌍 Beginner-Friendly Open-Source:</strong> I'm eager to contribute to open-source projects, learning and growing together with the community.</summary>
   </details>
 
 ## 🚀 Assistance Requested
@@ -109,7 +171,7 @@ Feel free to ask me about:
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="center" class="github-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=GowerCampbell&show_icons=true&theme=tokyonight" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GowerCampbell&layout=compact&theme=tokyonight" width="48%"/>
 </p>
@@ -117,5 +179,3 @@ Feel free to ask me about:
 <p align="center">
   <em>“From the multi-googles of star factories out in the universe, our Earth was made from the solar dust of millions of stars, and from that dust we expand out, building the infrastructure to implement change, to build smaller, faster, to contain information until we can model physics, ideas and mold them together until we reach and what is real can never be real but reality is strangely unreal but from that we have come to conceive the idea that life can come from a creative mess. What's stopping us from conceiving code that can contain a universe, that can foster a civilization, that can hold a community together. My starting point of dust to dust, we are who we are and within the realms of imaginations we can dream big, telling stories that envelop people”</em>
 </p>
-
-
