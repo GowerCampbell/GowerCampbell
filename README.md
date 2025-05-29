@@ -114,5 +114,7 @@ Feel free to ask me about:
 </p>
 
 <p align="center" style="font-size: 0.9em;">
-  <em>“From the multi-googles of star factories out in the universe, our Earth was made from the solar dust of millions of stars, and from that dust we expand out, building the infrastructure to implement change, to build smaller, faster, to contain information until we can model physics, ideas and mold them together until we reach and what is real can never be real but reality is strangely unreal but from that we have come to conceive the idea that life can come from a creative mess. What's stopping us from conceiving code that can contain a universe, that can foster a civilization, that can hold a community together. My starting point of dust to dust, we are who we are and within the realms of imaginations we can dream big, telling stories that envelop people”</em>
+  <em>“From the multi-googles of star factories out in the universe, our Earth was made from the solar dust of millions of stars, and from that dust we expand out, building the infrastructure to implement change, to build smaller, faster, to contain information until we can model our physics, our chemistry and even our biology. To mold ideas and theorys together until we reach out and see what is real can never be real but reality is strangely unreal. To live in a world where life can come from a creative mess and that is the amazing opportunty we have. 
+
+Because what's stopping us from conceiving code that can contain a universe, that can foster a civilization, that can hold a community together. My starting point of dust to dust, we are who we are and within the realms of imaginations we can dream big, telling stories that envelop people?”</em>
 </p>
