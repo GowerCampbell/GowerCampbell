@@ -109,8 +109,8 @@ Feel free to ask me about:
 ## 📊 GitHub Stats
 
 <p align="center" style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=GowerCampbell&show_icons=true&theme=tokyonight" style="width: 100%; max-width: 300px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GowerCampbell&layout=compact&theme=tokyonight" style="width: 100%; max-width: 300px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GowerCampbell&show_icons=true&theme=tokyonight" style="width: 100%; max-width: 200px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GowerCampbell&layout=compact&theme=tokyonight" style="width: 100%; max-width: 200px;" />
 </p>
 
 <p align="center" style="font-size: 0.9em;">
