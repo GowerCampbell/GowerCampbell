@@ -21,9 +21,9 @@ Hello! I'm **Gower Campbell**, a creative mind journeying from the realms of fil
 ## 🚀 Current Orbit: Skills in Development
 
 - 🐍 **Python Development:** Mastering advanced Python concepts, from OOP structures to building interactive apps with linked lists and hashtables, all while utilizing self-created assets.
-- 🌐 **Web Development:** Embarking on a journey into web development, crafting portals with HTML, CSS, and PHP to leave my mark on the cyberverse.
+- 🌐 **(New Skill) Web Development:** Embarking on a journey into web development, crafting portals with HTML, CSS, and PHP to leave my mark on the cyberverse.
 - 🔢 **SQL & Django Development:** Constructing databases and integrating them into web projects, adding creative features and tools for clients.
-- 🛠️ **Javascript Development:** Venturing into frameworks like React and Node.js to develop scalable front-end and back-end applications, creating responsive interfaces in harmony with Python modules.
+- 🛠️ **(New Skill) Javascript Development:** Venturing into frameworks like React and Node.js to develop scalable front-end and back-end applications, creating responsive interfaces in harmony with Python modules.
 
 ## 🛸 Galactic Showcase: Featured Projects
 
