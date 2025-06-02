@@ -35,7 +35,9 @@ Hello! I'm **Gower Campbell**, a creative mind journeying from the realms of fil
 My learning journey is a constellation of growth, with each resource a vital star guiding me toward a career in software engineering. I've built a strong foundation through the [HyperionDev Software Engineering Bootcamp](https://www.hyperiondev.com/bootcamps/software-engineering/), earned certifications via [Udemy](https://www.udemy.com/), and followed structured [Microsoft Learn career paths](https://learn.microsoft.com/en-us/training/career-paths/). I’m actively engaged with the [100Devs](https://100devs.org/about) community led by Leon Noel—collaborating, building, and growing alongside fellow developers. To sharpen my skills for the technical interview galaxy, I regularly solve coding challenges on [LeetCode](https://leetcode.com/). Each repository I build is a star in my coding galaxy—together forming a professional, purpose-driven path toward becoming a job-ready software engineer.
 
 <details>
-  <summary><strong>📘 Python Fundamentals:</strong> During my journey with the HyperionDev Software Engineering Bootcamp, I've built a strong foundation in Python programming. Below are some essential modules I’ve completed: </summary>
+  <summary><strong>📘 Python Fundamentals:</strong></summary>
+
+During my journey with the HyperionDev Software Engineering Bootcamp, I've built a strong foundation in Python programming. Below are some essential modules I’ve completed: 
   
 1. [Pre-Assessment MCQ](https://github.com/GowerCampbell/Pre-Assessment-MCQ)
 2. [Getting Started with Bootcamp](https://github.com/GowerCampbell/Getting-Started-With-Bootcamp)
@@ -49,7 +51,9 @@ My learning journey is a constellation of growth, with each resource a vital sta
 </details>
 
 <details>
-  <summary><strong>🧪 Advanced Python: </strong> Building upon my Python knowledge, I’ve explored advanced topics through my [LeetCode Knotes](https://github.com/GowerCampbell/LeetCode-Notes) repository and the final weeks of the HyperionDev Software Engineering Bootcamp: </summary>
+  <summary><strong>🧪 Advanced Python: </strong> </summary>
+
+Building upon my Python knowledge, I’ve explored advanced topics through my [LeetCode Knotes](https://github.com/GowerCampbell/LeetCode-Notes) repository and the final weeks of the HyperionDev Software Engineering Bootcamp:
   
 10. [Data Structures - 2D Lists](https://github.com/GowerCampbell/Data-Structures-2D-Lists)
 11. [Recursion](https://github.com/GowerCampbell/Recursion)
@@ -60,14 +64,18 @@ My learning journey is a constellation of growth, with each resource a vital sta
 </details>
 
 <details>
-  <summary><strong>🌐 (New Skill) Web Development: </strong> I've recently embarked on my **Web Development** journey, expanding beyond Python into **HTML, CSS, and JavaScript**. Through structured learning from [100Devs with Leon Noel](https://100devs.org/about), I’m now gaining hands-on experience in **building interactive, responsive web applications**</summary>
+  <summary><strong>🌐 (New Skill) Web Development: </strong></summary>
+
+I've recently embarked on my **Web Development** journey, expanding beyond Python into **HTML, CSS, and JavaScript**. Through structured learning from [100Devs with Leon Noel](https://100devs.org/about), I’m now gaining hands-on experience in **building interactive, responsive web applications**
   
 16. [HTML Overview](https://github.com/GowerCampbell/HTML-Overview)
 17. [CSS Overview](https://github.com/GowerCampbell/CSS-Overview)
 </details>
 
 <details>
-  <summary><strong>🧱 Databases & Backend Frameworks</strong> I’ve strengthened my **backend development and database management** skills through the **HyperionDev Software Engineering Bootcamp** and **Microsoft Learn**. Below are key areas I’ve explored: </summary>
+  <summary><strong>🧱 Databases & Backend Frameworks</strong></summary>
+
+I’ve strengthened my **backend development and database management** skills through the **HyperionDev Software Engineering Bootcamp** and **Microsoft Learn**. Below are key areas I’ve explored:
   
 18. [Relational Databases](https://github.com/GowerCampbell/Relational-Databases)
 19. [SQL](https://github.com/GowerCampbell/SQL)
@@ -77,7 +85,9 @@ My learning journey is a constellation of growth, with each resource a vital sta
 </details>
 
 <details>
-  <summary><strong>📜 JavaScript & Typescript:</strong> Expanding my **JavaScript** knowledge with **TypeScript** for scalable, maintainable web applications!  </summary>
+  <summary><strong>📜 JavaScript & Typescript:</strong></summary>
+
+Expanding my **JavaScript** knowledge with **TypeScript** for scalable, maintainable web applications! 
   
 - Coming Soon!
 </details>
