@@ -85,7 +85,7 @@ I’ve strengthened my **backend development and database management** skills th
 </details>
 
 <details>
-  <summary><strong>📜 JavaScript & Typescript:</strong></summary>
+  <summary><strong>📜 (New Skill) JavaScript & Typescript:</strong></summary>
 
 Expanding my **JavaScript** knowledge with **TypeScript** for scalable, maintainable web applications! 
   
