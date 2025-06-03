@@ -66,7 +66,7 @@ Building upon my Python knowledge, I’ve explored advanced topics through my [L
 <details>
   <summary><strong>🌐 (New Skill) Web Development: </strong></summary>
 
-I've recently embarked on my **Web Development** journey, expanding beyond Python into **HTML, CSS, and JavaScript**. Through structured learning from [100Devs with Leon Noel](https://100devs.org/about), I’m now gaining hands-on experience in **building interactive, responsive web applications**
+I've recently embarked on my **Web Development** journey, expanding beyond Python into **HTML, CSS, and JavaScript**. Through structured learning from [100Devs with Leon Noel]([https://100devs.org/about](https://communitytaught.org/)), I’m now gaining hands-on experience in **building interactive, responsive web applications**
   
 16. [HTML Overview](https://github.com/GowerCampbell/HTML-Overview)
 17. [CSS Overview](https://github.com/GowerCampbell/CSS-Overview)
