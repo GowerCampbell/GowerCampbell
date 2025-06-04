@@ -20,15 +20,15 @@ Hello! I'm **Gower Campbell**, a creative mind journeying from the realms of fil
 
 ## 🚀 Current Orbit: Skills in Development
 
-- 🐍 **Python Development:** Mastering advanced Python concepts, from OOP structures to building interactive apps with linked lists and hashtables, all while utilizing self-created assets.
-- 🌐 **(New Skill) Web Development:** Embarking on a journey into web development, crafting portals with HTML, CSS, and PHP to leave my mark on the cyberverse.
-- 🔢 **SQL & Django Development:** Constructing databases and integrating them into web projects, adding creative features and tools for clients.
-- 🛠️ **(New Skill) Javascript Development:** Venturing into frameworks like React and Node.js to develop scalable front-end and back-end applications, creating responsive interfaces in harmony with Python modules.
+🐍 **Python Development:** Mastering advanced Python concepts, from OOP structures to building interactive apps with linked lists and hashtables, all while utilizing self-created assets.
+🌐 **(New Skill) Web Development:** Embarking on a journey into web development, crafting portals with HTML, CSS, and PHP to leave my mark on the cyberverse.
+🔢 **SQL & Django Development:** Constructing databases and integrating them into web projects, adding creative features and tools for clients.
+🛠️ **(New Skill) Javascript Development:** Venturing into frameworks like React and Node.js to develop scalable front-end and back-end applications, creating responsive interfaces in harmony with Python modules.
 
 ## 🛸 Galactic Showcase: Featured Projects
 
-- 📝 **[StickyNotes](https://github.com/GowerCampbell/MyCodingTask_StickyNote):** A Django app for organizing notes with a sleek interface, perfect for keeping your thoughts in orbit.
-- 📋 **[Task Manager](https://github.com/GowerCampbell/TaskManager):** A CLI-based task tracker using Python, ensuring no mission goes unaccomplished.
+📝 **[StickyNotes](https://github.com/GowerCampbell/MyCodingTask_StickyNote):** A Django app for organizing notes with a sleek interface, perfect for keeping your thoughts in orbit.
+📋 **[Task Manager](https://github.com/GowerCampbell/TaskManager):** A CLI-based task tracker using Python, ensuring no mission goes unaccomplished.
 
 ## 🌌 Stellar Learning Trajectory
 
@@ -125,6 +125,6 @@ Feel free to ask me about:
 <p align="center" style="font-size: 0.9em;">
   <em>“From the multi-googles of star factories out in the universe, our Earth was made from the solar dust of millions of stars, and from that dust we expand out, building the infrastructure to implement change, to build smaller, faster, to contain information until we can model our physics, our chemistry and even our biology. To mold ideas and theorys together until we reach out and see what is real can never be real but reality is strangely unreal. To live in a world where life can come from a creative mess and that is the amazing opportunty we have. </em> 
 </p>
-<h3 align="center" style="font-size: 1em;">
-<em> Because what's stopping us from conceiving code that can contain a universe, that can foster a civilization, that can hold a community together? My starting point has made me dream big, telling stories that I hope one day will envelop people”</em> </h3>
+<h4 align="center" style="font-size: 1em;">
+<em> Because what's stopping us from conceiving code that can contain a universe, that can foster a civilization, that can hold a community together? My starting point has made me dream big, telling stories that I hope one day will envelop people”</em> </h4>
 
