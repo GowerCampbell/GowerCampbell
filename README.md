@@ -83,8 +83,8 @@ This repository serves as a living document of my dedication and progress throug
 
 🚀 **[Explore my #100Devs Repository](https://github.com/GowerCampbell/100Devs)**
 
-#### Featured Knotes
-16/17. **[HTML & CSS Overview](https://github.com/GowerCampbell/HTML-CSS-Overview)**: A **HyperionDev** project with knotes from homework completed with **#100Devs** demonstrating my core understanding of HTML and CSS principles.
+#### Featured HyperionDev Development | Plus 100Dev Knotes
+16/17. **[HTML & CSS Overview](https://github.com/GowerCampbell/HTML-CSS-Overview)**: A **HyperionDev** HTML & CSS project with knotes from homework completed with **#100Devs** demonstrating my core understanding of HTML and CSS principles.
 
 ---
 
