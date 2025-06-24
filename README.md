@@ -64,17 +64,21 @@ Building upon my Python knowledge, I’ve explored advanced topics through my [L
 </details>
 
 <details>
-  <summary><strong>🌐 (New Skill) Web Development: </strong></summary>
+  <summary><strong>🌐 (New Skill) Web Development</strong></summary>
 
-I've recently embarked on my **Web Development** journey, expanding from **HyperionDev** classes on HTML, CSS & Django into **Advanced HTML, CSS, and JavaScript** skills. Through structured learning from **[100Devs with Leon Noel]**([https://100devs.org/about](https://communitytaught.org/)), I’m now gaining hands-on experience in **building interactive, responsive web applications**
-  
-16/17. [HTML & CSS-Overview](https://github.com/GowerCampbell/HTML-CSS-Overview)
+I'm currently diving deep into the world of web development, building on my foundational knowledge from **HyperionDev** (HTML, CSS & Django) by mastering **Advanced HTML, CSS, and JavaScript**.
+
+My learning is powered by the intensive **[100Devs Agency](https://www.communitytaught.org/about)** program with Leon Noel, where I'm gaining practical experience in building interactive and responsive web applications.
 
 ---
 
-This repository documents my coursework and progress for the **#100Devs** program. It includes all submitted homework, class materials, and follow-along projects, reflecting my daily commitment to the curriculum.
+#### My #100Devs Progress
+This repository serves as a living document of my dedication and progress throughout the **#100Devs** curriculum. It includes all my submitted homework, class materials, and follow-along projects.
 
-[Link to my #100Devs GitHub Repository:](https://github.com/GowerCampbell/100Devs)
+🚀 **[Explore my #100Devs Repository](https://github.com/GowerCampbell/100Devs)**
+
+#### Featured Knotes
+16/17. **[HTML & CSS Overview](https://github.com/GowerCampbell/HTML-CSS-Overview)**: A **HyperionDev** project with knotes homework completed from **#100Devs** demonstrating my core understanding of HTML and CSS principles.
 
 </details>
 
