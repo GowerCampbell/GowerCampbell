@@ -102,7 +102,6 @@ I’ve strengthened my **backend development and database management** skills th
 22. [Django - Sticky Notes Part 2](https://github.com/GowerCampbell/Django-Sticky-Notes-2)
 </details>
 
----
 <details>
   <summary><strong>📜 (New Skill) JavaScript & Typescript:</strong></summary>
 
