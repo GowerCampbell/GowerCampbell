@@ -70,7 +70,8 @@ I've recently embarked on my **Web Development** journey, expanding from Hyperio
   
 16/17. [HTML & CSS-Overview](https://github.com/GowerCampbell/HTML-CSS-Overview)
 
-- This repository documents my coursework and progress for the #100Devs program. It includes all submitted homework, class materials, and follow-along projects, reflecting my daily commitment to the curriculum.
+This repository documents my coursework and progress for the #100Devs program. It includes all submitted homework, class materials, and follow-along projects, reflecting my daily commitment to the curriculum.
+
 [Link to GitHub Repository:](https://github.com/GowerCampbell/100Devs)
 
 </details>
