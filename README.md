@@ -32,14 +32,11 @@ Hello! I'm **Gower Campbell**, a creative mind journeying from the realms of fil
 - 📝 **[StickyNotes](https://github.com/GowerCampbell/MyCodingTask_StickyNote):** A Django app for organizing notes with a sleek interface, perfect for keeping your thoughts in orbit.
 - 📋 **[Task Manager](https://github.com/GowerCampbell/TaskManager):** A CLI-based task tracker using Python, ensuring no mission goes unaccomplished.
 
----
-
-
 ### 📊 Data Analysis
 
 Exploring new frontiers by turning raw data into spreadsheets, flowcharts, graphs, and tables. In this section, I venture into datasets from across this digital universe, from the vast repositories of Kaggle to the public archives of data.gov.uk. Using Python's powerful pandas library, I'm charting courses through complex information to uncover insights and visualize discoveries.
 
-- ##### 🌠 Coming Soon!
+- #### 🌠 Coming Soon!
 
 
 ## 🌌 Stellar Learning Trajectory
