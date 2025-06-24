@@ -48,6 +48,9 @@ During my journey with the HyperionDev Software Engineering Bootcamp, I've built
 7. [I/O Operations](https://github.com/GowerCampbell/IO-Operations)
 8. [OOP - Classes](https://github.com/GowerCampbell/OOP-Classes)
 9. [OOP - Inheritance](https://github.com/GowerCampbell/OOP-Inheritance)
+
+---
+
 </details>
 
 <details>
@@ -61,6 +64,9 @@ Building upon my Python knowledge, I’ve explored advanced topics through my [L
 13. [Software Design Principles](https://github.com/GowerCampbell/Software-Design)
 14. [Unit Testing](https://github.com/GowerCampbell/Unit-Testing)
 15. [OOP - Modules](https://github.com/GowerCampbell/OOP-Modules)
+
+---
+
 </details>
 
 <details>
@@ -78,11 +84,9 @@ This repository serves as a living document of my dedication and progress throug
 🚀 **[Explore my #100Devs Repository](https://github.com/GowerCampbell/100Devs)**
 
 #### Featured Knotes
-16/17. **[HTML & CSS Overview](https://github.com/GowerCampbell/HTML-CSS-Overview)**: A **HyperionDev** project with knotes homework completed from **#100Devs** demonstrating my core understanding of HTML and CSS principles.
+16/17. **[HTML & CSS Overview](https://github.com/GowerCampbell/HTML-CSS-Overview)**: A **HyperionDev** project with knotes from homework completed with **#100Devs** demonstrating my core understanding of HTML and CSS principles.
 
-
-
-
+---
 
 </details>
 
@@ -98,12 +102,16 @@ I’ve strengthened my **backend development and database management** skills th
 22. [Django - Sticky Notes Part 2](https://github.com/GowerCampbell/Django-Sticky-Notes-2)
 </details>
 
+---
 <details>
   <summary><strong>📜 (New Skill) JavaScript & Typescript:</strong></summary>
 
 Expanding my **JavaScript** knowledge with **TypeScript** for scalable, maintainable web applications! 
   
 - Coming Soon!
+
+---
+
 </details>
 
 ## 🤝 Collaborative Ventures
