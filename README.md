@@ -27,7 +27,7 @@ Hello! I'm **Gower Campbell**, a creative mind journeying from the realms of fil
 
 ## 🛸 Galactic Showcase: Featured Projects
 
-### HyperionDev Projects
+### Featured Projects
 
 - 📝 **[StickyNotes](https://github.com/GowerCampbell/MyCodingTask_StickyNote):** A Django app for organizing notes with a sleek interface, perfect for keeping your thoughts in orbit.
 - 📋 **[Task Manager](https://github.com/GowerCampbell/TaskManager):** A CLI-based task tracker using Python, ensuring no mission goes unaccomplished.
