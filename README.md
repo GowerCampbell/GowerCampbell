@@ -84,19 +84,15 @@ Building upon my Python knowledge, I’ve explored advanced topics through my [L
 <details>
   <summary><strong>🌐 (New Skill) Web Development</strong></summary>
 
-I'm currently diving deep into the world of web development, building on my foundational knowledge from **HyperionDev** (HTML, CSS & Django) by mastering **Advanced HTML, CSS, and JavaScript**.
+I'm currently diving deep into the world of web development, building on my foundational knowledge from **HyperionDev** (HTML, CSS & Django) by mastering **Advanced HTML, CSS, and JavaScript** and powered by the intensive **[100Devs Agency](https://www.communitytaught.org/about)** program with Leon Noel, where I'm gaining practical experience in building interactive and responsive web applications.
 
-My learning is powered by the intensive **[100Devs Agency](https://www.communitytaught.org/about)** program with Leon Noel, where I'm gaining practical experience in building interactive and responsive web applications.
-
----
+#### Featured HyperionDev Development | Plus 100Dev Knotes
+16/17. **[HTML & CSS Overview](https://github.com/GowerCampbell/HTML-CSS-Overview)**: A **HyperionDev** HTML & CSS projects with knotes from homework completed with **#100Devs** demonstrating my core understanding of HTML and CSS principles.
 
 #### My #100Devs Progress
 This repository serves as a living document of my dedication and progress throughout the **#100Devs** curriculum. It includes all my submitted homework, class materials, and follow-along projects.
 
 🚀 **[Explore my #100Devs Repository](https://github.com/GowerCampbell/100Devs)**
-
-#### Featured HyperionDev Development | Plus 100Dev Knotes
-16/17. **[HTML & CSS Overview](https://github.com/GowerCampbell/HTML-CSS-Overview)**: A **HyperionDev** HTML & CSS project with knotes from homework completed with **#100Devs** demonstrating my core understanding of HTML and CSS principles.
 
 ---
 
