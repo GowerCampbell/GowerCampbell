@@ -38,7 +38,8 @@ Exploring new frontiers by turning raw data into spreadsheets, flowcharts, graph
 
 <p align="left" style="font-size: 18px;">
   
-<b> 🌠 Project Nebula: </b> This is my first try at creating data pipeline for finding and visualizing data that can be used to show property development opportunities in my country. Cambridgeshire by using sql and python to process national brownfield land and Land Registry data. [Check out the project on GitHub](https://github.com/GowerCampbell/Project-Nebula/tree/main)
+<b> 🌠 Project Nebula: </b> This is my first try at creating data pipeline for finding and visualizing data that can be used to show property development opportunities in my country. Cambridgeshire by using sql and python to process national brownfield land and Land Registry data.
+[Check out the project on GitHub](https://github.com/GowerCampbell/Project-Nebula/tree/main)
 </p>
 
 ## 🌌 Stellar Learning Trajectory
