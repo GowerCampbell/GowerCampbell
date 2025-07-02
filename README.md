@@ -36,11 +36,11 @@ Hello! I'm **Gower Campbell**, a creative mind journeying from the realms of fil
 
 Exploring new frontiers by turning raw data into spreadsheets, flowcharts, graphs, and tables. In this section, I venture into datasets from across this digital universe, from the vast repositories of Kaggle to the public archives of data.gov.uk. Using Python's powerful pandas library, I'm charting courses through complex information to uncover insights and visualize discoveries.
 
-<h5>
+<p5>
   
-<b> 🌠 Project Nebula: </b> <p> This is my first try at creating data pipeline for finding and visualizing data that can be used to show property development opportunities in my country. Cambridgeshire by using sql and python to process national brownfield land and Land Registry data.</p>
+<b> 🌠 Project Nebula: </b> This is my first try at creating data pipeline for finding and visualizing data that can be used to show property development opportunities in my country. Cambridgeshire by using sql and python to process national brownfield land and Land Registry data.
 <a href="https://github.com/GowerCampbell/Project-Nebula/tree/main">[Check out the project on GitHub]</a>
- </h5>
+ </p5>
 
 
 ## 🌌 Stellar Learning Trajectory
