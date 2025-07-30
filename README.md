@@ -16,25 +16,26 @@
   </a>
 </p>
 
-Hello! I'm **Gower Campbell**, a creative mind journeying from the realms of filmmaking to the vast expanse of full-stack development. I thrive at the intersection of storytelling and software, where creativity meets code. My mission is to build universes from code, creating applications that tell stories and forge tools that help my people, provide access where I can't, and assist others on this journey.
+Hello! I'm **Gower Campbell**, and this is my GitHub, a repository of myself for you to see the expanse of technical skills I've built from the intersection of storytelling and software, where creativity meets code. My mission is to explore the creative and the technical learnning how to use code to create data sheets that will tell their stories and forge tools/web applications that help others, providing access where I can't, and assist others on this journey ahead.
 
-## Current Orbit: Skills in Development
+### Current Orbit: Skills in Development
+<ul>
+  <li> <b>Python Development:</b> Mastering advanced Python concepts, from OOP structures to building interactive apps with arrays, modules and scripts all while utilizing self-created assets.</li>
+  <li> <b>(New Skill) Web Development:</b> Embarking on a journey into web development, crafting portals with HTML, CSS, and PHP to leave my mark on the cyberverse.</li>
+  <li> **SQL & Django Development:** Constructing databases using data so that I can integrate them into web projects, adding creative features and tools for clients.</li>
+  <li>**(New Skill) Javascript Development:** Venturing into frameworks like React and Node.js to develop scalable front-end and back-end applications, creating interfaces in harmony with my Python modules. </li>
+</ul>
 
-- **Python Development:** Mastering advanced Python concepts, from OOP structures to building interactive apps with linked lists and hashtables, all while utilizing self-created assets.
-- **(New Skill) Web Development:** Embarking on a journey into web development, crafting portals with HTML, CSS, and PHP to leave my mark on the cyberverse.
-- **SQL & Django Development:** Constructing databases and integrating them into web projects, adding creative features and tools for clients.
-- **(New Skill) Javascript Development:** Venturing into frameworks like React and Node.js to develop scalable front-end and back-end applications, creating responsive interfaces in harmony with Python modules.
-
-## Galactic Showcase: Featured Projects
+## A Galactic Showcase: Featured Projects
 
 ### Featured Projects
 
-- **[StickyNotes](https://github.com/GowerCampbell/MyCodingTask_StickyNote):** A Django app for organizing notes with a sleek interface, perfect for keeping your thoughts in orbit.
+ -**[StickyNotes](https://github.com/GowerCampbell/MyCodingTask_StickyNote):** A Django app for organizing notes with a sleek interface, perfect for keeping your thoughts in orbit.
 - **[Task Manager](https://github.com/GowerCampbell/TaskManager):** A CLI-based task tracker using Python, ensuring no mission goes unaccomplished.
 
 ### Data Analysis
 
-Exploring new frontiers by turning raw data into spreadsheets, flowcharts, graphs, and tables. In this section, I venture into datasets from across this digital universe, from the vast repositories of Kaggle to the public archives of data.gov.uk. Using Python's powerful pandas library, I'm charting courses through complex information to uncover insights and visualize discoveries.
+Exploring frontiers by turning raw data into spreadsheets, flowcharts, graphs, and tables. Using datasets across this digital universe, from the vast repositories of public archives found in data.gov.uk. Using Python's powerful pandas library, I'm charting courses like Kaggle to learn how to manipulate information from files to uncover insights and visualize discoveries.
 
 <p5>
   
@@ -45,7 +46,7 @@ Exploring new frontiers by turning raw data into spreadsheets, flowcharts, graph
 
 ## Stellar Learning Trajectory
 
-My learning journey is a constellation of growth, with each resource a vital star guiding me toward a career in software engineering. I've built a strong foundation through the [HyperionDev Software Engineering Bootcamp](https://www.hyperiondev.com/bootcamps/software-engineering/), earning certifications via [Udemy](https://www.udemy.com/), and followed structured [Microsoft Learn career paths](https://learn.microsoft.com/en-us/training/career-paths/). I’m actively engaged with the [100Devs](https://100devs.org/about) community led by Leon Noel—collaborating, building, and growing alongside fellow developers. To sharpen my skills for the technical interview galaxy, I regularly solve coding challenges on [LeetCode](https://leetcode.com/). Each repository I build is a star in my coding galaxy—together forming a professional, purpose-driven path toward becoming a job-ready software engineer.
+My learning journey is a constellation of growth, with each resource a vital star guiding me toward a career. I've built a strong foundation through the [HyperionDev Software Engineering Bootcamp](https://www.hyperiondev.com/bootcamps/software-engineering/), earning certifications via [Udemy](https://www.udemy.com/), and followed structured [Microsoft Learn career paths](https://learn.microsoft.com/en-us/training/career-paths/). I’m actively engaged with the [100Devs](https://100devs.org/about) community led by Leon Noel—collaborating, building, and growing alongside fellow developers on discord. To sharpen my skills for the future, so that I can regularly solve coding challenges on [LeetCode](https://leetcode.com/). Each repository I build is a star in my coding galaxy—together forming a professional, purpose-driven path toward a career.
 
 <details>
   <summary><strong> Python Fundamentals:</strong></summary>
@@ -126,7 +127,9 @@ Expanding my **JavaScript** knowledge with **TypeScript** for scalable, maintain
 
 I'm always on the lookout for exciting projects and collaborations:
 
-- **Multimedia-Tech Fusion:** Let's create projects that blend editing with interactivity, crafting immersive experiences.
+<details>
+<summary><strong> Multimedia-Tech Fusion:</strong> Let's create projects that blend editing with interactivity, crafting immersive experiences.</summary>
+</details>
   
   <details>
   <summary><strong> Beginner-Friendly Open-Source:</strong> I'm eager to contribute to open-source projects, learning and growing together with the community.</summary>
