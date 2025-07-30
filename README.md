@@ -16,7 +16,7 @@
   </a>
 </p>
 
-Hello! I'm **Gower Campbell**, and this is my GitHub, a repository of myself for you to see the expanse of technical skills I've built from the intersection of storytelling and software, where creativity meets code. My mission is to explore the creative and the technical learnning how to use code to create data sheets that will tell their stories and forge tools/web applications that help others, providing access where I can't, and assist others on this journey ahead.
+Hello! I'm **Gower Campbell**, and this is my GitHub, a repository of myself for you to see the expanse of technical skills I've built from the intersection of storytelling and software, where creativity meets code. My mission is to explore the creative and the technical uses of programming. To create data sheets that will tell their stories and forge tools/web applications that help others, providing access where I can't, and assist others on this journey ahead.
 
 ### Current Orbit: Skills in Development
 <ul>
