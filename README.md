@@ -22,8 +22,8 @@ Hello! I'm **Gower Campbell**, and this is my GitHub, a repository of myself for
 <ul>
   <li> <b>Python Development:</b> Mastering advanced Python concepts, from OOP structures to building interactive apps with arrays, modules and scripts all while utilizing self-created assets.</li>
   <li> <b>(New Skill) Web Development:</b> Embarking on a journey into web development, crafting portals with HTML, CSS, and PHP to leave my mark on the cyberverse.</li>
-  <li> **SQL & Django Development:** Constructing databases using data so that I can integrate them into web projects, adding creative features and tools for clients.</li>
-  <li>**(New Skill) Javascript Development:** Venturing into frameworks like React and Node.js to develop scalable front-end and back-end applications, creating interfaces in harmony with my Python modules. </li>
+  <li> <b>SQL & Django Development:</b> Constructing databases using data so that I can integrate them into web projects, adding creative features and tools for clients in the future.</li>
+  <li><b>(New Skill) Javascript Development:</b>Venturing into frameworks like React and Node.js to develop scalable front-end and back-end applications, creating interfaces in harmony with my Python modules. </li>
 </ul>
 
 ## A Galactic Showcase: Featured Projects
