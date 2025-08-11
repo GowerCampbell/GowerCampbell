@@ -46,7 +46,11 @@ Exploring frontiers by turning raw data into spreadsheets, flowcharts, graphs, a
 
 ## Stellar Learning Trajectory
 
-My learning journey is a constellation of growth, with each resource a vital star guiding me toward a career. I've built a strong foundation through the [HyperionDev Software Engineering Bootcamp](https://www.hyperiondev.com/bootcamps/software-engineering/), earning certifications via [Udemy](https://www.udemy.com/), and followed structured [Microsoft Learn career paths](https://learn.microsoft.com/en-us/training/career-paths/). I’m actively engaged with the [100Devs](https://100devs.org/about) community led by Leon Noel—collaborating, building, and growing alongside fellow developers on discord. To sharpen my skills for the future, so that I can regularly solve coding challenges on [LeetCode](https://leetcode.com/). Each repository I build is a star in my coding galaxy—together forming a professional, purpose-driven path toward a career.
+<em>My learning journey is a constellation of growth, with each resource a vital star guiding me toward a career. </em>
+
+I've built a strong foundation through the [HyperionDev Software Engineering Bootcamp](https://www.hyperiondev.com/bootcamps/software-engineering/), earning certifications via [Udemy](https://www.udemy.com/), and followed structured [Microsoft Learn career paths](https://learn.microsoft.com/en-us/training/career-paths/). I’m actively engaged with the [100Devs](https://100devs.org/about) community led by Leon Noel—collaborating, building, and growing alongside fellow developers on discord. To sharpen my skills for the future, I have started learning data science with [**Kaggle**](https://www.kaggle.com/) a fun data science competition platform and online community so that I can regularly solve coding challenges, which require me to explore datasheets, looking to tell their story. I am also, working slowly through [LeetCode](https://leetcode.com/) to get a better grasp on some of the advance uses of python. 
+
+<strong> Each repository I build here for myself is a star in my coding galaxy—together forming a professional, purpose-driven path toward a career. </strong>
 
 <details>
   <summary><strong> Python Fundamentals:</strong></summary>
@@ -70,7 +74,7 @@ During my journey with the HyperionDev Software Engineering Bootcamp, I've built
 <details>
   <summary><strong> Advanced Python: </strong> </summary>
 
-Building upon my Python knowledge, I’ve explored advanced topics through my [LeetCode Knotes](https://github.com/GowerCampbell/LeetCode-Notes) repository and the final weeks of the HyperionDev Software Engineering Bootcamp:
+Building upon my Python knowledge, I’ve explored advanced topics through my [**LeetCode Knotes**](https://github.com/GowerCampbell/LeetCode-Notes) repository and the final weeks of the HyperionDev Software Engineering Bootcamp:
   
 10. [Data Structures - 2D Lists](https://github.com/GowerCampbell/Data-Structures-2D-Lists)
 11. [Recursion](https://github.com/GowerCampbell/Recursion)
@@ -112,9 +116,10 @@ I’ve strengthened my **backend development and database management** skills th
 22. [Django - Sticky Notes Part 2](https://github.com/GowerCampbell/Django-Sticky-Notes-2)
 
 #### Kaggle: Data Science & Machine Learning
-Sharing as part of my portfolio how I have actively participated in **Kaggle** challenges and courses to get better data handling and analysis skills. This is my platform to show you how I can apply my knowledge to real-world datasets and problems. [Repository: Kaggle](https://github.com/GowerCampbell/Kaggle)
+Sharing as part of my portfolio how I have actively participated in **Kaggle** challenges and courses to get better data handling and analysis skills. This is my platform to show you how I can apply my knowledge to real-world datasets and problems. [**Repository: Kaggle**](https://github.com/GowerCampbell/Kaggle)
 
-**
+---
+
 </details>
 
 <details>
