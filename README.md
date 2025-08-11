@@ -35,12 +35,12 @@ Hello! I'm **Gower Campbell**, and this is my GitHub, a repository of myself for
 
 ### Data Analysis
 
-Exploring frontiers by turning raw data into spreadsheets, flowcharts, graphs, and tables. Using datasets across this digital universe, from the vast repositories of public archives found in data.gov.uk. Using Python's powerful pandas library, I'm charting courses like **Kaggle** to learn how to manipulate information from files to uncover insights and visualize discoveries.
+Exploring frontiers by turning raw data into spreadsheets, flowcharts, graphs, and tables. Using datasets across this digital universe, from the vast repositories of public archives found in [**data.gov.uk**](https://www.data.gov.uk/). Using Python's powerful pandas library, I'm charting on courses like [**Kaggle**](https://www.kaggle.com/) to learn how to manipulate information from files to uncover insights and visualize discoveries.
 
 <p5>
   
 <b> Project Nebula: </b> This is my first try at creating data pipeline for finding and visualizing data that can be used to show property development opportunities in my country. Cambridgeshire by using sql and python to process national brownfield land and Land Registry data.
-<a href="https://github.com/GowerCampbell/Project-Nebula/tree/main">[Check out the project on GitHub]</a>
+<a href="https://github.com/GowerCampbell/Project-Nebula/tree/main">[**Check out the project on GitHub**]</a>
  </p5>
 
 
@@ -48,7 +48,7 @@ Exploring frontiers by turning raw data into spreadsheets, flowcharts, graphs, a
 
 <em>My learning journey is a constellation of growth, with each resource a vital star guiding me toward a career. </em>
 
-I've built a strong foundation through the [HyperionDev Software Engineering Bootcamp](https://www.hyperiondev.com/bootcamps/software-engineering/), earning certifications via [Udemy](https://www.udemy.com/), and followed structured [Microsoft Learn career paths](https://learn.microsoft.com/en-us/training/career-paths/). I’m actively engaged with the [100Devs](https://100devs.org/about) community led by Leon Noel—collaborating, building, and growing alongside fellow developers on discord. To sharpen my skills for the future, I have started learning data science with [**Kaggle**](https://www.kaggle.com/) a fun data science competition platform and online community so that I can regularly solve coding challenges, which require me to explore datasheets, looking to tell their story. I am also, working slowly through [LeetCode](https://leetcode.com/) to get a better grasp on some of the advance uses of python. 
+I've built a strong foundation through the [**HyperionDev Software Engineering Bootcamp**](https://www.hyperiondev.com/bootcamps/software-engineering/), earning certifications via [**Udemy**](https://www.udemy.com/), and followed structured [**Microsoft Learn career paths**](https://learn.microsoft.com/en-us/training/career-paths/). I’m actively engaged with the [**100Devs**](https://100devs.org/about) community led by Leon Noel—collaborating, building, and growing alongside fellow developers on discord. To sharpen my skills for the future, I have started learning data science with [**Kaggle**](https://www.kaggle.com/) a fun data science competition platform and online community so that I can regularly solve coding challenges, which require me to explore datasheets, looking to tell their story. I am also, working slowly through [**LeetCode**](https://leetcode.com/) to get a better grasp on some of the advance uses of python. 
 
 <strong> Each repository I build here for myself is a star in my coding galaxy—together forming a professional, purpose-driven path toward a career. </strong>
 
@@ -98,7 +98,7 @@ I'm currently diving deep into the world of web development, building on my foun
 #### My #100Devs Progress
 This repository serves as a living document of my dedication and progress throughout the **#100Devs** curriculum. It includes all my submitted homework, class materials, and follow-along projects.
 
-**Explore my #100Devs Repository](https://github.com/GowerCampbell/100Devs)**
+**[Explore my #100Devs Repository](https://github.com/GowerCampbell/100Devs)**
 
 ---
 
@@ -107,7 +107,7 @@ This repository serves as a living document of my dedication and progress throug
 <details>
   <summary><strong> Databases & Backend Frameworks</strong></summary>
 
-I’ve strengthened my **backend development and database management** skills through the **HyperionDev Software Engineering Bootcamp** and **Kaggle**. Below are key areas I’ve explored:
+I’ve strengthened my **backend development and database management** skills through the **HyperionDev Software Engineering Bootcamp** and **Kaggle** Below are key areas I’ve explored:
   
 18. [Relational Databases](https://github.com/GowerCampbell/Relational-Databases)
 19. [SQL](https://github.com/GowerCampbell/SQL)
