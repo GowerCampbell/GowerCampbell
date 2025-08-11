@@ -35,7 +35,7 @@ Hello! I'm **Gower Campbell**, and this is my GitHub, a repository of myself for
 
 ### Data Analysis
 
-Exploring frontiers by turning raw data into spreadsheets, flowcharts, graphs, and tables. Using datasets across this digital universe, from the vast repositories of public archives found in data.gov.uk. Using Python's powerful pandas library, I'm charting courses like Kaggle to learn how to manipulate information from files to uncover insights and visualize discoveries.
+Exploring frontiers by turning raw data into spreadsheets, flowcharts, graphs, and tables. Using datasets across this digital universe, from the vast repositories of public archives found in data.gov.uk. Using Python's powerful pandas library, I'm charting courses like **Kaggle** to learn how to manipulate information from files to uncover insights and visualize discoveries.
 
 <p5>
   
@@ -103,13 +103,18 @@ This repository serves as a living document of my dedication and progress throug
 <details>
   <summary><strong> Databases & Backend Frameworks</strong></summary>
 
-I’ve strengthened my **backend development and database management** skills through the **HyperionDev Software Engineering Bootcamp** and **Microsoft Learn**. Below are key areas I’ve explored:
+I’ve strengthened my **backend development and database management** skills through the **HyperionDev Software Engineering Bootcamp** and **Kaggle**. Below are key areas I’ve explored:
   
 18. [Relational Databases](https://github.com/GowerCampbell/Relational-Databases)
 19. [SQL](https://github.com/GowerCampbell/SQL)
 20. [SQLite](https://github.com/GowerCampbell/SQLite)
 21. [Django - Sticky Notes Part 1](https://github.com/GowerCampbell/Django-Sticky-Notes-1)
 22. [Django - Sticky Notes Part 2](https://github.com/GowerCampbell/Django-Sticky-Notes-2)
+
+#### Kaggle: Data Science & Machine Learning
+Sharing as part of my portfolio how I have actively participated in **Kaggle** challenges and courses to get better data handling and analysis skills. This is my platform to show you how I can apply my knowledge to real-world datasets and problems. [Repository: Kaggle](https://github.com/GowerCampbell/Kaggle)
+
+**
 </details>
 
 <details>
