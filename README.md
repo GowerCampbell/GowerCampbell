@@ -40,6 +40,7 @@ Exploring frontiers by turning raw data into spreadsheets, flowcharts, graphs, a
 <p5>
   
 <b> Project Nebula: </b> This is my first try at creating data pipeline for finding and visualizing data that can be used to show property development opportunities in my country. Cambridgeshire by using sql and python to process national brownfield land and Land Registry data.
+
 <a href="https://github.com/GowerCampbell/Project-Nebula/tree/main">[**Check out the project on GitHub**]</a>
  </p5>
 
@@ -105,7 +106,7 @@ This repository serves as a living document of my dedication and progress throug
 </details>
 
 <details>
-  <summary><strong> Databases & Backend Frameworks</strong></summary>
+  <summary><strong> (New Skills) Databases & Backend Frameworks</strong></summary>
 
 I’ve strengthened my **backend development and database management** skills through the **HyperionDev Software Engineering Bootcamp** and **Kaggle** Below are key areas I’ve explored:
   
