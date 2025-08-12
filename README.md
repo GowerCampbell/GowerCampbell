@@ -1,4 +1,4 @@
-# My Mission Control Menu:
+# My Mission Control:
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/GowerCampbell/GowerCampbell/main/assets/icons/GithubProfileBanner.gif" alt="Cosmic Banner" style="width: 100%; max-width: 600px; height: auto; object-fit: cover; max-height: 200px;" />
@@ -26,7 +26,7 @@ Hello! I'm **Gower Campbell**, and this is my GitHub, a repository of myself for
   <li><b>(New Skill) Javascript Development:</b>Venturing into frameworks like React and Node.js to develop scalable front-end and back-end applications, creating interfaces in harmony with my Python modules. </li>
 </ul>
 
-## A Galactic Showcase: Featured Projects
+## A Galactic Showcase:
 
 ### Featured Projects
 
@@ -44,7 +44,7 @@ Exploring frontiers by turning raw data into spreadsheets, flowcharts, graphs, a
  </p5>
 
 
-## Stellar Learning Trajectory
+## Learning Trajectory
 
 <em>My learning journey is a constellation of growth, with each resource a vital star guiding me toward a career. </em>
 
