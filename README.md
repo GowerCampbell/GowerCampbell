@@ -4,20 +4,29 @@
   <img src="https://raw.githubusercontent.com/GowerCampbell/GowerCampbell/main/assets/icons/GithubProfileBanner.gif" alt="Cosmic Banner" style="width: 100%; max-width: 600px; height: auto; object-fit: cover; max-height: 200px;" />
 </p>
 
-<p align="center" style="display: flex; flex-direction: column; align-items: center; gap: 30px;">
- <a href="https://www.linkedin.com/in/gower-campbell-16940115b/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0D47A1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="max-height: 30px; width: auto;" />
+<div align="center">
+
+  <a href="https://www.linkedin.com/in/gower-campbell-16940115b/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0D47A1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <br>
+
   <a href="mailto:Gower.Campbell@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-1A237E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="max-height: 30px; width: auto;" />
+    <img src="https://img.shields.io/badge/-Email-1A237E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <br>
+
   <a href="https://www.google.com/search?q=Gower+Campbell+developer">
-    <img src="https://img.shields.io/badge/-Google%20Me-311B92?style=for-the-badge&logo=google&logoColor=white" alt="Google Search" style="max-height: 30px; width: auto;" />
+    <img src="https://img.shields.io/badge/-Google%20Me-311B92?style=for-the-badge&logo=google&logoColor=white" alt="Google Search" />
   </a>
+  <br>
+
   <a href="https://github.com/sponsors/GowerCampbell">
-    <img src="https://img.shields.io/badge/Sponsor%20Me-yellow?style=for-the-badge&logo=github" alt="Sponsor GowerCampbell">
+    <img src="https://img.shields.io/badge/Sponsor%20Me-yellow?style=for-the-badge&logo=github" alt="Sponsor GowerCampbell" />
   </a>
-</p>
+
+</div>
+
 
 
 Hello! I'm **Gower Campbell**, and this is my GitHub, a repository of myself for you to see the expanse of technical skills I've built from the intersection of storytelling and software, where creativity meets code. 
