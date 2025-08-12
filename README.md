@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/GowerCampbell/GowerCampbell/main/assets/icons/GithubProfileBanner.gif" alt="Cosmic Banner" style="width: 100%; max-width: 600px; height: auto; object-fit: cover; max-height: 200px;" />
 </p>
 
-<p align="center" style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
+<p align="center" style="display: flex; flex-direction: column; align-items: center; gap: 30px;">
  <a href="https://www.linkedin.com/in/gower-campbell-16940115b/">
     <img src="https://img.shields.io/badge/-LinkedIn-0D47A1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="max-height: 30px; width: auto;" />
   </a>
