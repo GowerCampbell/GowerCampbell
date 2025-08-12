@@ -5,8 +5,8 @@
 </p>
 
 <p align="center" style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
-  <a href="https://www.linkedin.com/in/gower-campbell-16940115b/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0D47A1?style=for-the-badge&logo=linkedin&logoColor=red" alt="LinkedIn" style="max-height: 30px; width: auto;" />
+ <a href="https://www.linkedin.com/in/gower-campbell-16940115b/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0D47A1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="max-height: 30px; width: auto;" />
   </a>
   <a href="mailto:Gower.Campbell@gmail.com">
     <img src="https://img.shields.io/badge/-Email-1A237E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="max-height: 30px; width: auto;" />
