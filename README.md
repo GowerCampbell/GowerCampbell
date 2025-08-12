@@ -14,9 +14,6 @@
   <a href="https://www.google.com/search?q=Gower+Campbell+developer">
     <img src="https://img.shields.io/badge/-Google%20Me-311B92?style=for-the-badge&logo=google&logoColor=white" alt="Google Search" style="max-height: 30px; width: auto;" />
   </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/sponsors/GowerCampbell">
     <img src="https://img.shields.io/badge/Sponsor%20Me-yellow?style=for-the-badge&logo=github" alt="Sponsor GowerCampbell">
   </a>
