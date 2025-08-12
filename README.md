@@ -33,10 +33,10 @@ My mission is to explore the creative and the technical uses of programming. To 
 
 ### Current Orbit: Skills in Development
 <ul>
-  <li>→ <b>Python Development:</b> Mastering advanced Python concepts, from OOP structures to building interactive apps with arrays, modules and scripts all while utilizing self-created assets.</li>
-  <li>→ <b>(New Skill) Web Development:</b> Embarking on a journey into web development, crafting portals with HTML, CSS, and PHP to leave my mark on the cyberverse.</li>
-  <li>→ <b>SQL & Django Development:</b> Constructing databases using data so that I can integrate them into web projects, adding creative features and tools for clients in the future.</li>
-  <li>→ <b>(New Skill) Javascript Development:</b>Venturing into frameworks like jQuery and Node.js to develop scalable front-end and back-end applications, creating interfaces in harmony with my Python modules. </li>
+  <li> <b>Python Development:</b> Mastering advanced Python concepts, from OOP structures to building interactive apps with arrays, modules and scripts all while utilizing self-created assets.</li>
+  <li> <b>(New Skill) Web Development:</b> Embarking on a journey into web development, crafting portals with HTML, CSS, and PHP to leave my mark on the cyberverse.</li>
+  <li> <b>SQL & Django Development:</b> Constructing databases using data so that I can integrate them into web projects, adding creative features and tools for clients in the future.</li>
+  <li> <b>(New Skill) Javascript Development:</b>Venturing into frameworks like jQuery and Node.js to develop scalable front-end and back-end applications, creating interfaces in harmony with my Python modules. </li>
 </ul>
 
 ## A Galactic Showcase:
@@ -102,7 +102,7 @@ Building upon my Python knowledge, I’ve explored advanced topics through my [*
 </details>
 
 <details>
-  <summary><strong> (New Skill) Web Development</strong></summary>
+  <summary><strong> (New Skills) Web Development</strong></summary>
 
 I'm currently diving deep into the world of web development, building on my foundational knowledge from **HyperionDev** (HTML, CSS & Django) by mastering **Advanced HTML, CSS, and JavaScript** and powered by the intensive **[100Devs Agency](https://www.communitytaught.org/about)** program with Leon Noel, where I'm gaining practical experience in building interactive and responsive web applications.
 
@@ -137,7 +137,7 @@ Sharing as part of my portfolio how I have actively participated in **Kaggle** c
 </details>
 
 <details>
-  <summary><strong> (New Skill) JavaScript & Typescript:</strong></summary>
+  <summary><strong> (New Skills) JavaScript & Typescript:</strong></summary>
 
 Expanding my **JavaScript** knowledge with **TypeScript** for scalable, maintainable web applications! 
   
