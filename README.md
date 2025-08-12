@@ -16,13 +16,12 @@
   </a>
 </p>
 
-<div style="text-align: center; padding: 10px;">
-  <iframe src="https://github.com/sponsors/GowerCampbell/button" 
-          title="Sponsor GowerCampbell" 
-          height="32" width="114" 
-          style="border: 0; border-radius: 6px; background-color: #FFD700;">
-  </iframe>
-</div>
+<p align="center">
+  <a href="https://github.com/sponsors/GowerCampbell">
+    <img src="https://img.shields.io/badge/Sponsor%20Me-yellow?style=for-the-badge&logo=github" alt="Sponsor GowerCampbell">
+  </a>
+</p>
+
 
 Hello! I'm **Gower Campbell**, and this is my GitHub, a repository of myself for you to see the expanse of technical skills I've built from the intersection of storytelling and software, where creativity meets code. 
 
