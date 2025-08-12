@@ -28,12 +28,12 @@ Hello! I'm **Gower Campbell**, and this is my GitHub, a repository of myself for
 
 ## A Galactic Showcase:
 
-### Featured Projects
+### Featured Developer Projects
 
  - **[StickyNotes](https://github.com/GowerCampbell/MyCodingTask_StickyNote):** A Django app for organizing notes with a sleek interface, perfect for keeping your thoughts in orbit.
 - **[Task Manager](https://github.com/GowerCampbell/TaskManager):** A CLI-based task tracker using Python, ensuring no mission goes unaccomplished.
 
-### Data Analysis
+### Data Analysis Projects
 
 Exploring frontiers by turning raw data into spreadsheets, flowcharts, graphs, and tables. Using datasets across this digital universe, from the vast repositories of public archives found in [**data.gov.uk**](https://www.data.gov.uk/). Using Python's powerful pandas library, I'm charting on courses like [**Kaggle**](https://www.kaggle.com/) to learn how to manipulate information from files to uncover insights and visualize discoveries.
 
