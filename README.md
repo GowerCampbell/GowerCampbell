@@ -54,7 +54,7 @@ Exploring frontiers by turning raw data into spreadsheets, flowcharts, graphs, a
 
 <b>Artist Catalog Web Application</b>: A full-stack Flask app for cataloging artwork. Features full CRUD functionality, secure image uploads, and XML export. The project is built with Python, SQLite, and a responsive Bootstrap front end.
 
-<a href="https://project-01-artist-catalog-webapp-python.onrender.com">[Live Demo]</a> | <a href="https://github.com/GowerCampbell/Project_01_Artist_Catalog_WebApp_Python">[GitHub]</a>  
+<a href="https://project-01-artist-catalog-webapp-python.onrender.com">[**Live Demo**]</a> | <a href="https://github.com/GowerCampbell/Project_01_Artist_Catalog_WebApp_Python">[**GitHub**]</a>  
 
 <b> Project Nebula: </b> This is my first try at creating data pipeline for finding and visualizing data that can be used to show property development opportunities in my country. Cambridgeshire by using sql and python to process national brownfield land and Land Registry data.
 
